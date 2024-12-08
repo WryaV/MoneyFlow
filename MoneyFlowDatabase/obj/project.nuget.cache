@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "JYOoy7H9o88=",
+  "success": false,
+  "projectFilePath": "H:\\5. NET\\Lexicon\\LexProject\\MoneyFlow\\MoneyFlowDatabase\\MoneyFlowDatabase.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'H:\\5. NET\\Lexicon\\LexProject\\MoneyFlow\\Data\\Data.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "H:\\5. NET\\Lexicon\\LexProject\\MoneyFlow\\Data\\Data.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
