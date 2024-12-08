@@ -32,3 +32,4 @@ H:\5. NET\Lexicon\LexProject\MoneyFlow\Data\obj\Debug\net8.0\refint\TrackingData
 H:\5. NET\Lexicon\LexProject\MoneyFlow\Data\obj\Debug\net8.0\TrackingDatabase.pdb
 H:\5. NET\Lexicon\LexProject\MoneyFlow\Data\obj\Debug\net8.0\TrackingDatabase.genruntimeconfig.cache
 H:\5. NET\Lexicon\LexProject\MoneyFlow\Data\obj\Debug\net8.0\ref\TrackingDatabase.dll
+H:\5. NET\Lexicon\LexProject\MoneyFlow\Data\obj\Debug\net8.0\TrackingDatabase.sourcelink.json

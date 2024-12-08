@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrackingDatabase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0312ae2dd4f9bf6e7b233a9dc062d8ccf54862e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrackingDatabase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrackingDatabase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
